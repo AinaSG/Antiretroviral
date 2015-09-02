@@ -53,7 +53,9 @@ function filter(jNode) {
 
 ////// EDITAR AQUÍ ///////////////////////////////////////////////////////////////////////////////////
 //   Llista de usuarios a bloquear, separados por comas sin espacios
-var blocks = "PewDiePie,elrubiusOMG"
+//var blocks = "PewDiePie,elrubiusOMG"
+//He precargado la lista con algunas de mis preferencias, modificar a gusto.
+var blocks = "PewDiePie,elrubiusOMG,VEGETTA777,DalasReview,Wismichu,Míster Jägger,AuronPlay"
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
