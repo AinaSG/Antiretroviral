@@ -1,6 +1,14 @@
 # Antiretroviral
 Script de Greasemonkey para tratar el SIDA de Youtube
 ______
+## Update
+
+### Usuarios de Firefox
+Ahora puedes instalar automaticamente Antiretroviral(Si tienes Greasemonkey ya instalado)pulsando [aquí](https://raw.githubusercontent.com/AinaSG/Antiretroviral/master/Antiretroviral.user.js)
+
+### Usuarios de Chrome
+No uso chrome, por lo que no he testeado el funcionamiento del script en esa plataforma, de todas formas, si estas interesado en usarlo, prueba a ver que tal Tampermonkey. 
+______
 ## How To
 
 **1**- Asegurate de tener Greasemonkey [instalado en tu navegador](https://addons.mozilla.org/firefox/addon/greasemonkey/):
